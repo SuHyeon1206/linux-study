@@ -1,0 +1,2 @@
+Linux study day 1
+I installed WSL2 Ubuntu.
