@@ -10,3 +10,5 @@ WSL2 Ubuntu 환경에서 Linux 기초부터 서버 구축까지 복습하고 기
 
 ## 공부 기록
 - [Day 01 - WSL2 Ubuntu 환경 구축](daily/day01.md)
+- [Day 02 - Linux 파일 조작과 권한 기초](./daily/day02.md)
+
