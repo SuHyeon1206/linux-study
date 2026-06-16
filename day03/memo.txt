@@ -1,0 +1,4 @@
+Linux study day 3
+error: permission denied
+warning: disk space low
+info: login success
