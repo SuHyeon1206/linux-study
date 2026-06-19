@@ -15,3 +15,5 @@ WSL2 Ubuntu 환경에서 Linux 기초부터 서버 구축까지 복습하고 기
 - [Day 02 - Linux 파일 조작과 권한 기초](daily/day02.md)
 - [Day 03 - Linux 검색과 로그 확인](daily/day03.md)
 - [Day 04 - 프로세스와 서비스 관리](daily/day04.md)
+- [Day 05 - 네트워크 기초](daily/day05.md)
+
